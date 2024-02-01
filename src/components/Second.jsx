@@ -2,7 +2,7 @@ import React from "react";
 import notadhish from "../images/notadish.png";
 const Second = () => {
   return (
-    <div className="secondcontent">
+    <div className="second-container">
     <div  className="container">
     <div className="row">
       <div className="col s1">
