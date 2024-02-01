@@ -1,0 +1,142 @@
+body{
+    margin: 0px;
+}
+p{
+    color:#444957;
+}
+.sidep{
+    height: 804px;
+    position: relative;
+    margin-bottom: 100px;
+    display: flex;
+}
+.sidep1{
+    position: absolute;
+    top:0px;
+    right:0px;
+}
+span{
+    color: red;
+}
+.asdf{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:150px;
+}
+.fh1{
+    font-size: 3.5rem;
+    width: 345px;
+    height: 207px;
+}
+.fp{
+    width: 345px;
+}
+.s{
+    padding-bottom:150px;
+    padding-left: 100px;
+}
+.s1{
+    padding-left:100px ;
+}
+
+
+
+   .second-container{
+    display: flex;
+    justify-content: space-around;
+    gap:150px;
+    background: linear-gradient(90.07deg, rgba(30, 42, 93, 0.04) 30.91%, rgba(48, 62, 130, 0.04) 64.79%, rgba(60, 80, 157, 0.04) 91.94%);
+    ;
+   }
+   .scontent{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 447px;
+   }
+   .button{
+    border-radius: 21px;
+    width: 132px;
+   }
+   h1,h4{
+    color: #0E2368;
+    font-weight: bold;
+   }
+   .cards{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 381px;
+    height: 554px;
+    border: 1.37px solid #93A2D361;
+    border-radius: 20.94px;
+   }
+   
+   .buttonr{
+    border-radius: 21px;
+    border: 1px solid #424961;
+    width: 132px;
+   }
+   .cardcontent{
+    width: 295.02px;
+    height: 220px;
+   }
+   .Thirdcontainer{
+    margin: 50px 0px;
+   }
+   .arrowb{
+    display: flex;
+    justify-content: center;
+    margin:20px 0px; 
+    gap:10px;
+   }
+   .butto{
+    border: 0px;
+    background-color: white;
+   }
+   .fcontainer{
+    height: 362px;
+    
+   }
+   .flogo{
+    display: flex;
+    
+    align-items: center;
+   }
+   .fcontact{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   }
+   h4{
+    color:#0E2368
+   }
+   .fmore{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   }
+   .fsocial{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding-bottom: 50px;
+   }
+   .fsocialall{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+   }
+   .foot{
+    background-color: #F8F8F8;
+   }
+   .secondcontent{
+    background: linear-gradient(90.07deg, rgba(30, 42, 93, 0.04) 30.91%, rgba(48, 62, 130, 0.04) 64.79%, rgba(60, 80, 157, 0.04) 91.94%);
+
+   }
