@@ -5,13 +5,13 @@ import twitter from "../images/twitter.png";
 import insta from "../images/insta.png"
 const Forth=()=>{
 return (
-    <div className="foot">
+    <div className="foot p-5">
     <div className="container">
-        <div className="row fcontainer">
-            <div className="col-12 col-lg-3  flogo">
+        <div className="row flogo">
+            <div className="col-12 col-lg-3 py-5 ">
                 <img src={logo} alt="logo"/>
             </div>
-            <div className="col-12 col-lg-3  fcontact">
+            <div className="col-12 col-lg-3 py-3 ">
                 <h4>
                     Contact Us
                 </h4>
@@ -19,7 +19,7 @@ return (
                 <p>example2020@gmail.com</p>
                 <p>(904) 443-0343</p>
             </div>
-            <div className="col-12 col-lg-3  fmore">
+            <div className="col-12 col-lg-3  py-3">
             <div className="">
                 <h4>
                     More
@@ -30,9 +30,9 @@ return (
                 <p>Contact Us</p>
             </div>
             </div>
-            <div className="col-12 col-lg-3  fmore">
-                <div className="fsocialall">
-                    <div className="fsocial ">
+            <div className="col-12 col-lg-3  py-3">
+                <div className="">
+                    <div className="">
                         <h4 >Social media</h4>
                         <div >
                             <img src={insta} alt="insta"/>
